@@ -1,0 +1,23 @@
+
+body{ background-color: aqua; font-family: Arial, Helvetica, sans-serif; text-align: center;}
+
+h1{ color:blue;font-size: 50px;
+    background-color: yellowgreen;
+    border: 2px solid red;
+    
+}
+    p{
+        color:red;
+    }
+    p{
+        text-transform: uppercase;
+    }
+    #text1{
+        color: blue;
+        text-decoration: underline wavy;
+    }
+    .uppercase{
+        background-color: bisque;
+    }
+    div{ border: 5px dotted blueviolet; border-radius: 50px;}
+    h2{ text-align: center;}

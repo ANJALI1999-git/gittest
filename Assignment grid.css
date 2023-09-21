@@ -1,0 +1,33 @@
+.container{
+    background-color: aliceblue;
+    display:flex;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.child-one {
+    align-self: flex-start;
+    width: 35%;
+    background-color: rgb(172, 131, 211);
+    border: 1px solid red;
+    height: 40px;
+
+
+}
+.child-two { 
+align-self: stretch;
+background-color: red;
+width: 35%;
+}
+.child-three { 
+
+    align-self: flex-end;
+    width: 35%;
+    background-color: darkgreen;
+    border: 1px solid red;
+}

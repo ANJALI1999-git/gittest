@@ -1,0 +1,17 @@
+button:hover{ background-color:aquamarine;
+border: 5px solid red;
+color: brown;
+padding: 5px;
+}
+input:focus{
+    background-color: antiquewhite;
+}
+a:visited{color:green;
+}
+a:active{
+    color: blueviolet;
+}
+p::selection{
+    color: red;
+    background-color: chartreuse;
+}

@@ -1,0 +1,5 @@
+h1+h2{color: brown;}
+
+h2+p{color: darkgreen;}
+h1~h2{color: darkcyan;
+text-transform: uppercase;}

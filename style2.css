@@ -1,0 +1,12 @@
+*{color:darkgreen;
+padding: 5px;
+background-color: azure;} 
+div  h2{color: blueviolet;
+font-family: 'Courier New', Courier, monospace;
+text-transform: uppercase;}
+div h1,div p{color: brown;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: uppercase;}
+#id1>p{color: coral;
+font-size: 25px;}
+
